@@ -1,6 +1,6 @@
-![auth_list_user](https://github.com/RidhwanAF/Meal-Auth-App-Jetpack-Compose/assets/72844854/43e817c9-1afe-4a47-9426-f5bb38bf7fca)# Meal-Auth-App-Jetpack-Compose
 
 # Meal Recipe App
+![auth_list_user](https://github.com/RidhwanAF/Meal-Auth-App-Jetpack-Compose/assets/72844854/43e817c9-1afe-4a47-9426-f5bb38bf7fca)
 ![meal_setting](https://github.com/RidhwanAF/Meal-Auth-App-Jetpack-Compose/assets/72844854/4d0bb964-7248-40a4-a1b3-1a524a56ca99)
 ![meal_detail2](https://github.com/RidhwanAF/Meal-Auth-App-Jetpack-Compose/assets/72844854/9d4ab227-d320-4237-b072-dc0597a15580)
 ![meal_detail](https://github.com/RidhwanAF/Meal-Auth-App-Jetpack-Compose/assets/72844854/056cff03-8834-465b-aba4-f66723524cd7)
